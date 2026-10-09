@@ -1,0 +1,11 @@
+fastapi
+pydanytic
+bcrypt
+OAuth2PasswordBearer
+OAuth2PasswordRequestForm
+psycopg
+jwt
+os
+datetime
+depends
+security
